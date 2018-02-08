@@ -1,0 +1,24 @@
+{
+  "name": "help-gulp",
+  "version": "1.0.0",
+  "keywords": [
+    "gulp"
+  ],
+  "author": "richard_lovell",
+  "contributors": [],
+  "scripts": {
+    "gulp": "node ./node_modules/gulp/bin/gulp.js watch"
+  },
+  "dependencies": {
+    "gulp-wait": "0.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}

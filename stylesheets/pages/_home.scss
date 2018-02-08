@@ -1,0 +1,14 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.main-content{
+    display: flex;
+}
+#map-canvas{
+    width: 800px;
+    height: 500px; 
+}
+#place-detail{
+    max-width: 400px;
+}
